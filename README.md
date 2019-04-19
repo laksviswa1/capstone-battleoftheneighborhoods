@@ -1,2 +1,2 @@
 # capstone-battleoftheneighborhoods
-Coursera Capstone - Battle of the Neighborhood
+Coursera Capstone - Battle of the Neighborhoods
